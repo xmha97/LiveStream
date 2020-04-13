@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:0,Hispan TV (bozztv)
+#EXTGRP:News
+https://bozztv.com/36bay2/gin/giniko_gemonyx_900kb_36bay2/index.m3u8
+#EXTINF:0,Hispan TV (hispantv)
+#EXTGRP:News
+https://live.hispantv.com/live/smil:live.smil/playlist.m3u8
