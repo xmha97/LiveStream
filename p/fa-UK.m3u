@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,Manoto
+https://d2rwmwucnr0d10.cloudfront.net/live.m3u8
+#EXTINF:-1,BBC Persian
+https://vs-dash-ww-live.bbcfmt.hs.llnwd.net/pool_902/live/nonuk/bbc_persian_tv/bbc_persian_tv.isml/pc_hd_abr_v2_dash.mpd
+#EXTINF:-1,Iran International
+https://live.playstop.me/LS-63503-4/index.m3u8
