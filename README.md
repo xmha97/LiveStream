@@ -1,5 +1,2 @@
-# tv
-
-https://raw.githubusercontent.com/xmha97/tv/master/p/fa-IR.m3u8  
-
-https://raw.githubusercontent.com/xmha97/tv/master/p/fa-UK.m3u8  
+# Live Stream
+https://raw.githubusercontent.com/xmha97/livestream/master/list.m3u
