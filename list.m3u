@@ -1,31 +1,31 @@
 #EXTM3U
-#EXTINF:-1 group-title="Music" tvg-logo="xxx.png" radio=true,Beeptunes Classic
+#EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/ade5115a.png" radio=true,Beeptunes Classic
 http://radio.rajman.org:80/classic.station
-#EXTINF:-1 group-title="Music" tvg-logo="xxx.png" radio=true,Beeptunes Folk
+#EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/ade5115a.png" radio=true,Beeptunes Folk
 http://radio.rajman.org:80/folk.station
-#EXTINF:-1 group-title="Music" tvg-logo="xxx.png" radio=true,Beeptunes Fusion
+#EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/ade5115a.png" radio=true,Beeptunes Fusion
 http://radio.rajman.org:80/fusion.station
-#EXTINF:-1 group-title="Music" tvg-logo="xxx.png" radio=true,Beeptunes Instrumental
+#EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/ade5115a.png" radio=true,Beeptunes Instrumental
 http://radio.rajman.org:80/instrumental.station
-#EXTINF:-1 group-title="Music" tvg-logo="xxx.png" radio=true,Beeptunes Persian Classic
+#EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/ade5115a.png" radio=true,Beeptunes Persian Classic
 http://radio.rajman.org:80/persianclassic.station
-#EXTINF:-1 group-title="Music" tvg-logo="xxx.png" radio=true,Beeptunes Pop
+#EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/ade5115a.png" radio=true,Beeptunes Pop
 http://radio.rajman.org:80/pop.station
-#EXTINF:-1 group-title="Music" tvg-logo="xxx.png" radio=true,Beeptunes Upbeats
+#EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/ade5115a.png" radio=true,Beeptunes Upbeats
 http://radio.rajman.org:80/upbeats.station
-#EXTINF:-1 group-title="Music" tvg-logo="xxx.png" radio=true,Navahang
+#EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/414a283c.png" radio=true,Navahang
 http://108.163.204.178:9000/stream
-#EXTINF:-1 group-title="Music" tvg-logo="xxx.png" radio=true,Radio Javan
+#EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/8b5d1b1b.png" radio=true,Radio Javan
 http://74.115.215.36/
-#EXTINF:-1 group-title="Music" tvg-logo="xxx.png" radio=true,Radio ZZA
+#EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/8c0acb35.png" radio=true,Radio ZZA
 https://listen.radioking.com/radio/526993/stream/585439
-#EXTINF:-1 group-title="Music" tvg-logo="xxx.png" radio=true,RPS Cloud Lofi
+#EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/356acc5d.png" radio=true,RPS Cloud Lofi
 https://radio.rpscloud2.ml/lofi
-#EXTINF:-1 group-title="Music" tvg-logo="xxx.png" radio=true,RPS Cloud Persian Rap
+#EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/356acc5d.png" radio=true,RPS Cloud Persian Rap
 https://radio.rpscloud2.ml/persian/rap
-#EXTINF:-1 group-title="Music" tvg-logo="xxx.png" radio=true,RPS Cloud Pop
+#EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/356acc5d.png" radio=true,RPS Cloud Pop
 https://radio.rpscloud2.ml/pop
-#EXTINF:-1 group-title="Music" tvg-logo="xxx.png" radio=true,RPS Cloud Rap
+#EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/356acc5d.png" radio=true,RPS Cloud Rap
 https://radio.rpscloud2.ml/rap
-#EXTINF:-1 group-title="Music" tvg-logo="xxx.png" radio=true,RPS Cloud Rock
+#EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/356acc5d.png" radio=true,RPS Cloud Rock
 https://radio.rpscloud2.ml/rock
