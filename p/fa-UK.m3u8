@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:0,Manoto
-#EXTGRP:Entertainment
-https://d2rwmwucnr0d10.cloudfront.net/live.m3u8
-#EXTINF:0,Iran International
-#EXTGRP:News
-https://live.playstop.me/LS-63503-4/index.m3u8
