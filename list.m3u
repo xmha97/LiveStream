@@ -29,7 +29,41 @@ https://radio.rpscloud2.ml/pop
 https://radio.rpscloud2.ml/rap
 #EXTINF:-1 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/356acc5d.png" radio=true,RPS Cloud Rock
 https://radio.rpscloud2.ml/rock
-#EXTINF:-1 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/35dfa3a2.png" radio=true,IRIB Alborz
+#EXTINF:-1 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/35dfa3a2.png" radio=true,IRIB Radio Iran
+http://s1.cdn2.iranseda.ir:1935/liveedge/radio-iran/playlist.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/35dfa3a2.png" radio=true,IRIB Radio Payam
+http://s2.cdn1.iranseda.ir:1935/liveedge/radio-payam/playlist.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/35dfa3a2.png" radio=true,IRIB Radio Javan
+http://s3.cdn1.iranseda.ir:1935/liveedge/radio-javan/playlist.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/35dfa3a2.png" radio=true,IRIB Radio Maaref
+http://s2.cdn1.iranseda.ir:1935/liveedge/radio-maaref/playlist.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/35dfa3a2.png" radio=true,IRIB Radio Quran
+http://s0.cdn1.iranseda.ir:1935/liveedge/radio-quran/playlist.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/35dfa3a2.png" radio=true,IRIB Radio Farhang
+http://s0.cdn2.iranseda.ir:1935/liveedge/radio-farhang/playlist.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/35dfa3a2.png" radio=true,IRIB Radio Salamat
+http://s1.cdn1.iranseda.ir:1935/liveedge/radio-salamat/playlist.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/35dfa3a2.png" radio=true,IRIB Radio Varzesh
+http://s1.cdn2.iranseda.ir:1935/liveedge/radio-varzesh/playlist.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/35dfa3a2.png" radio=true,IRIB Radio Eghtesad
+http://s3.cdn1.iranseda.ir:1935/liveedge/radio-eghtesad/playlist.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/35dfa3a2.png" radio=true,IRIB Radio Tehran
+http://s1.cdn1.iranseda.ir:1935/liveedge/radio-tehran/playlist.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/35dfa3a2.png" radio=true,IRIB Radio Avaa
+http://s3.cdn1.iranseda.ir:1935/liveedge/radio-avaa/playlist.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/35dfa3a2.png" radio=true,IRIB Radio Namayesh
+http://s0.cdn2.iranseda.ir:1935/liveedge/radio-namayesh/playlist.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/35dfa3a2.png" radio=true,IRIB Radio Saba
+http://s1.cdn1.iranseda.ir:1935/liveedge/radio-saba/playlist.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/35dfa3a2.png" radio=true,IRIB Radio Mostanad
+http://s1.cdn1.iranseda.ir:1935/liveedge2/radio-mostanad/playlist.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/35dfa3a2.png" radio=true,IRIB Radio Monasebati
+http://s1.cdn2.iranseda.ir:1935/liveedge/radio-monasebati/playlist.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/35dfa3a2.png" radio=true,IRIB Radio Talavat
+http://s2.cdn2.iranseda.ir:1935/liveedge/radio-talavat/playlist.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/35dfa3a2.png" radio=true,IRIB Radio Goftego
+http://s0.cdn1.iranseda.ir:1935/liveedge/radio-goftego/playlist.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/35dfa3a2.png" radio=true,IRIB Radio Alborz
 http://s1.cdn1.iranseda.ir:1935/liveedgeProvincial/radio-alborz/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/87553a24.png" radio=false,IRIB TV3
 https://cdn-azd2054.telewebion.com/tv3/live/1080p/index.m3u8
