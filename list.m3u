@@ -57,5 +57,35 @@ http://s0.cdn1.iranseda.ir:1935/liveedge/radio-goftego/playlist.m3u8
 http://s1.cdn1.iranseda.ir:1935/liveedgeProvincial/radio-alborz/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/87553a24.png" radio=false,IRIB TV3
 https://cdn-azd2054.telewebion.com/tv3/live/1080p/index.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/87553a24.png" radio=false,IRIB TV1
+https://cdn-azd2054.telewebion.com/tv1/live/1080p/index.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/87553a24.png" radio=false,IRIB TV2
+https://cdn-azd2054.telewebion.com/tv2/live/1080p/index.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/87553a24.png" radio=false,IRIB IRINN
+https://cdn-azd2054.telewebion.com/irinn/live/1080p/index.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/87553a24.png" radio=false,IRIB Varzesh
+https://cdn-azd2054.telewebion.com/varzesh/live/1080p/index.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/87553a24.png" radio=false,IRIB Nasim
+https://cdn-azd2054.telewebion.com/nasim/live/1080p/index.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/87553a24.png" radio=false,IRIB HD Test
+https://cdn-azd2054.telewebion.com/hdtest/live/1080p/index.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/87553a24.png" radio=false,IRIB Pooya
+https://cdn-azd2054.telewebion.com/pooya/live/1080p/index.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/87553a24.png" radio=false,IRIB iFilm
+https://cdn-azd2054.telewebion.com/ifilm/live/1080p/index.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/87553a24.png" radio=false,IRIB Namayesh
+https://cdn-azd2054.telewebion.com/namayesh/live/1080p/index.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/87553a24.png" radio=false,IRIB Mostanad
+https://cdn-azd2054.telewebion.com/mostanad/live/1080p/index.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/87553a24.png" radio=false,IRIB Quran
+https://cdn-azd2054.telewebion.com/quran/live/1080p/index.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/87553a24.png" radio=false,IRIB Ofogh
+https://cdn-azd2054.telewebion.com/ofogh/live/1080p/index.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/87553a24.png" radio=false,IRIB Faratar
+https://cdn-azd2054.telewebion.com/faratar/live/1080p/index.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/87553a24.png" radio=false,IRIB Baran
+https://cdn-azd2054.telewebion.com/baran/live/1080p/index.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/87553a24.png" radio=false,IRIB TW Sport
+https://cdn-azd2054.telewebion.com/twsport/live/1080p/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/5f1e8cf8.png" radio=false,Manoto
 https://dh4wkqcyy8768.cloudfront.net/live.m3u8
