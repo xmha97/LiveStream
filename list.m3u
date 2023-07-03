@@ -55,6 +55,19 @@ http://s2.cdn2.iranseda.ir:1935/liveedge/radio-talavat/playlist.m3u8
 http://s0.cdn1.iranseda.ir:1935/liveedge/radio-goftego/playlist.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/35dfa3a2.png" radio=true,IRIB Radio Alborz
 http://s1.cdn1.iranseda.ir:1935/liveedgeProvincial/radio-alborz/playlist.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/35dfa3a2.png" radio=true,9craft Lofi
+https://radio.9craft.site/lofi
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/35dfa3a2.png" radio=true,9craft Persian Hip-Hop
+https://radio.9craft.site/persianrap
+#EXTINF:-1 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/35dfa3a2.png" radio=true,9craft Phonk
+https://radio.9craft.site/phonk
+#EXTINF:-1 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/35dfa3a2.png" radio=true,9craft Pop
+https://radio.9craft.site/pop
+#EXTINF:-1 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/35dfa3a2.png" radio=true,9craft Hip-Hop
+https://radio.9craft.site/rap
+#EXTINF:-1 group-title="Radio" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/35dfa3a2.png" radio=true,9craft Rock
+https://radio.9craft.site/rock
 #EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/87553a24.png" radio=false,IRIB TV1
 https://cdn-azd2054.telewebion.com/tv1/live/1080p/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/87553a24.png" radio=false,IRIB TV2
