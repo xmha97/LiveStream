@@ -3,7 +3,7 @@
    version="1.1"
    viewBox="0 0 1500 1500"
    id="svg2"
-   sodipodi:docname="Asset-11x-2.svg"
+   sodipodi:docname="neshan.svg"
    inkscape:version="1.4 (86a8ad7, 2024-10-11)"
    inkscape:export-filename="Asset-11x-2.png"
    inkscape:export-xdpi="96"
@@ -22,14 +22,14 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="0.26333333"
-     inkscape:cx="750"
-     inkscape:cy="750"
+     inkscape:cx="750.00001"
+     inkscape:cy="750.00001"
      inkscape:window-width="1366"
      inkscape:window-height="697"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="Content" />
   <defs
      id="defs1">
     <style
@@ -54,7 +54,7 @@
      transform="matrix(0.99785646,0,0,0.99785646,1.1586196,3.0545469)">
     <path
        class="cls-1"
-       d="m 1014.4,900.6 c 30.3,-48.7 34.2,-109.3 10.6,-161.5 l 43.8,-75.9 -78.2,-43.8 C 978,519.3 886.7,448.4 786.6,460.9 c -0.2,0 -0.4,0 -0.6,0 -16.3,1.9 -32.2,6.2 -47.3,12.5 l -78.2,-43.8 -43.8,75.9 c -99.8,14 -169.6,105.8 -156.4,205.7 2,15.9 6.3,31.4 12.5,46.1 l -44.2,78.2 76.3,43.8 c 14,100 106.1,169.9 206.1,156.4 15.6,-1.9 30.9,-6 45.4,-12.1 l 78.2,44.2 46.1,-78.2 c 56.6,-5.7 106.7,-39.1 133.7,-89.2 v 0 z"
+       d="m 1016.15,900.45 c 30.3,-48.7 34.2,-109.3 10.6,-161.5 l 43.8,-75.9 -78.2,-43.8 c -12.6,-100.1 -103.9,-171 -204,-158.5 -0.2,0 -0.4,0 -0.6,0 -16.3,1.9 -32.2,6.2 -47.3,12.5 l -78.2,-43.8 -43.8,75.9 c -99.8,14 -169.6,105.8 -156.4,205.7 2,15.9 6.3,31.4 12.5,46.1 l -44.2,78.2 76.3,43.8 c 14,100 106.1,169.9 206.1,156.4 15.6,-1.9 30.9,-6 45.4,-12.1 l 78.2,44.2 46.1,-78.2 c 56.6,-5.7 106.7,-39.1 133.7,-89.2 v 0 z"
        id="path1" />
     <path
        class="cls-1"
