@@ -37,8 +37,6 @@ http://s1.cdn2.iranseda.ir:1935/liveedge/radio-monasebati/playlist.m3u8
 http://s2.cdn2.iranseda.ir:1935/liveedge/radio-talavat/playlist.m3u8
 #EXTINF:-1 tvg-chno="1" group-title="IRIB" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/35dfa3a2.png" radio=true tvg-id="xx.ir" tvg-name="NA",Goftego
 http://s0.cdn1.iranseda.ir:1935/liveedge/radio-goftego/playlist.m3u8
-#EXTINF:-1 tvg-chno="1" group-title="IRIB" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/35dfa3a2.png" radio=true tvg-id="xx.ir" tvg-name="NA",Alborz
-http://s1.cdn1.iranseda.ir:1935/liveedgeProvincial/radio-alborz/playlist.m3u8
 #EXTINF:-1 tvg-chno="1" group-title="IRIB" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/35dfa3a2.png" radio=true tvg-id="xx.ir" tvg-name="NA",9craft Lofi
 https://radio.9craft.site/lofi
 #EXTINF:-1 tvg-chno="1" group-title="IRIB" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/35dfa3a2.png" radio=true tvg-id="xx.ir" tvg-name="NA",9craft Persian Hip-Hop

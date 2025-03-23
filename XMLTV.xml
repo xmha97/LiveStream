@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "https://raw.githubusercontent.com/XMLTV/xmltv/refs/heads/master/xmltv.dtd">
 <tv source-info-url="http://www.schedulesdirect.org/" source-info-name="Schedules Direct"
     generator-info-name="XMLTV/$Id: tv_grab_na_dd.in,v 1.70 2008/03/03 15:21:41 rmeden Exp $"
@@ -56,6 +56,11 @@
     <channel id="neshanowj">
         <display-name lang="en">Neshan Owj</display-name>
         <display-name lang="fa">نشان اوج</display-name>
+        <icon src="https://raw.githubusercontent.com/xmha97/LiveStream/refs/heads/master/images/cb33fa50.png" />
+    </channel>
+    <channel id="iribalborz">
+        <display-name lang="en">IRIB Alborz</display-name>
+        <display-name lang="fa">شبکه البرز</display-name>
         <icon src="https://raw.githubusercontent.com/xmha97/LiveStream/refs/heads/master/images/cb33fa50.png" />
     </channel>
 </tv>
