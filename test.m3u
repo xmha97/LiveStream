@@ -208,7 +208,7 @@ https://cdn-azd2045.telewebion.com/ek/azarbayjangharbi/live/576p/index.m3u8
 #EXTINF:-1 tvg-chno="1" group-title="IRIB" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/844d9d80.png" radio=false tvg-id="xx.ir" tvg-name="NA",IRIB Sahand
 https://cdn-azd2045.telewebion.com/ek/sahand/live/576p/index.m3u8
 #EXTINF:-1 tvg-chno="1" group-title="IRIB" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/844d9d80.png" radio=false tvg-id="xx.ir" tvg-name="NA",IRIB Alborz
-https://cdn-azd2045.telewebion.com/ek/alborz/live/576p/index.m3u8
+http://s1.cdn1.iranseda.ir:1935/liveedgeProvincial/radio-alborz/playlist.m3u8
 #EXTINF:-1 tvg-chno="1" group-title="IRIB" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/844d9d80.png" radio=false tvg-id="xx.ir" tvg-name="NA",IRIB Esfahan
 https://cdn-azd2045.telewebion.com/ek/esfahan/live/576p/index.m3u8
 #EXTINF:-1 tvg-chno="1" group-title="IRIB" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/844d9d80.png" radio=false tvg-id="xx.ir" tvg-name="NA",IRIB Sabalan
