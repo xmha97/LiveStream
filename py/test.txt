@@ -1,4 +1,3 @@
-#EXTM3U
 #EXTINF:-1 tvg-chno="1" group-title="IRIB" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/414a283c.png" radio=true tvg-id="xxxx" tvg-name="NA",Navahang
 http://108.163.204.178:9000/stream
 #EXTINF:-1 tvg-chno="1" group-title="IRIB" tvg-logo="https://raw.githubusercontent.com/xmha97/livestream/master/images/8c0acb35.png" radio=true tvg-id="xxxx" tvg-name="NA",Radio ZZA
