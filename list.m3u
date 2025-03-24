@@ -7,6 +7,10 @@ https://cdn-azd2045.telewebion.com/ek/tv2/live/1080p/index.m3u8
 https://cdn-azd2045.telewebion.com/ek/tv3/live/1080p/index.m3u8
 #EXTINF:-1 tvg-chno="201" group-title="IRIB" tvg-logo="https://raw.githubusercontent.com/xmha97/LiveStream/refs/heads/master/png/65c4e9e6.png" radio=false provider-countries="IR" provider-languages="fa-IR" provider="Telewebion" provider-type="aerial" x-tvg-url="https://raw.githubusercontent.com/xmha97/LiveStream/refs/heads/master/epg.xml" tvg-id="irib.alborz" tvg-name="IRIB Alborz",IRIB Alborz
 https://cdn-azd2045.telewebion.com/ek/alborz/live/576p/index.m3u8
+#EXTINF:-1 tvg-chno="301" group-title="GEM" tvg-logo="https://raw.githubusercontent.com/xmha97/LiveStream/refs/heads/master/png/d5b504f2.png" radio=false provider-countries="TR" provider-languages="fa-IR" provider="Telewebion" provider-type="satellite" x-tvg-url="https://raw.githubusercontent.com/xmha97/LiveStream/refs/heads/master/epg.xml" tvg-id="gemjunior" tvg-name="GEM Junior",GEM Junior
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+https://gg.hls2.xyz/live/IR%20-%20GEM%20Junior/playlist.m3u8
 #EXTINF:-1 tvg-chno="401" group-title="United States" tvg-logo="https://raw.githubusercontent.com/xmha97/LiveStream/refs/heads/master/png/dfb8ed88.png" radio=false provider-countries="US" provider-languages="fa-IR" provider="Aparatchi" provider-type="satellite" x-tvg-url="https://raw.githubusercontent.com/xmha97/LiveStream/refs/heads/master/epg.xml" tvg-id="manoto" tvg-name="Manoto",Manoto
 #EXTVLCOPT:http-referrer=https://www.aparatchi.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0

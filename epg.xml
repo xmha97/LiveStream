@@ -23,6 +23,11 @@
         <display-name lang="fa">شبکه البرز</display-name>
         <icon src="https://raw.githubusercontent.com/xmha97/LiveStream/refs/heads/master/png/65c4e9e6.png" />
     </channel>
+    <channel id="gemjunior">
+        <display-name lang="en">GEM Junior</display-name>
+        <display-name lang="fa">جم جونیور</display-name>
+        <icon src="https://raw.githubusercontent.com/xmha97/LiveStream/refs/heads/master/png/d5b504f2.png" />
+    </channel>
     <channel id="manoto">
         <display-name lang="en">Manoto</display-name>
         <display-name lang="fa">منوتو</display-name>
@@ -65,108 +70,117 @@
     </channel>
 	<programme start="20200920140000 +0300" stop="20300920141500 +0300" channel="iribtv1">
 		<title lang="en">News</title>
-		<title lang="en">اخبار</title>
+		<title lang="fa">اخبار</title>
 		<desc lang="en">Daily News</title>
-		<desc lang="en">اخبار روزانه</title>
+		<desc lang="fa">اخبار روزانه</title>
 		<date>Program release date 1</date>
 		<category lang="en">General</category>
 		<category lang="fa">عمومی</category>
 	</programme>
 	<programme start="20200920140000 +0300" stop="20300920141500 +0300" channel="iribtv2">
 		<title lang="en">News</title>
-		<title lang="en">اخبار</title>
+		<title lang="fa">اخبار</title>
 		<desc lang="en">Daily News</title>
-		<desc lang="en">اخبار روزانه</title>
+		<desc lang="fa">اخبار روزانه</title>
 		<date>Program release date 1</date>
 		<category lang="en">General</category>
 		<category lang="fa">عمومی</category>
 	</programme>
 	<programme start="20200920140000 +0300" stop="20300920141500 +0300" channel="iribtv3">
 		<title lang="en">News</title>
-		<title lang="en">اخبار</title>
+		<title lang="fa">اخبار</title>
 		<desc lang="en">Daily News</title>
-		<desc lang="en">اخبار روزانه</title>
+		<desc lang="fa">اخبار روزانه</title>
 		<date>Program release date 1</date>
 		<category lang="en">General</category>
 		<category lang="fa">عمومی</category>
 	</programme>
 	<programme start="20200920140000 +0300" stop="20300920141500 +0300" channel="iribalborz">
 		<title lang="en">News</title>
-		<title lang="en">اخبار</title>
+		<title lang="fa">اخبار</title>
 		<desc lang="en">Daily News</title>
-		<desc lang="en">اخبار روزانه</title>
+		<desc lang="fa">اخبار روزانه</title>
+		<date>Program release date 1</date>
+		<category lang="en">General</category>
+		<category lang="fa">عمومی</category>
+	</programme>
+	<programme start="20200920140000 +0300" stop="20300920141500 +0300" channel="gemjunior">
+		<title lang="en">Miraculous</title>
+		<title lang="fa">میراکلس</title>
+		<desc lang="en">Tales of Ladybug & Cat Noir</title>
+		<desc lang="fa">داستان دختر کفشدوزکی و پسر گربه‌ای</title>
 		<date>Program release date 1</date>
 		<category lang="en">General</category>
 		<category lang="fa">عمومی</category>
 	</programme>
 	<programme start="20200920140000 +0300" stop="20300920141500 +0300" channel="manoto">
 		<title lang="en">Otaghe Khabar</title>
-		<title lang="en">اتاق خبر</title>
+		<title lang="fa">اتاق خبر</title>
 		<desc lang="en">Daily Otaghe Khabar</title>
-		<desc lang="en">اتاق خبر روزانه</title>
+		<desc lang="fa">اتاق خبر روزانه</title>
 		<date>Program release date 1</date>
 		<category lang="en">General</category>
 		<category lang="fa">عمومی</category>
 	</programme>
 	<programme start="20200920140000 +0300" stop="20300920141500 +0300" channel="neshanharmony">
 		<title lang="en">News</title>
-		<title lang="en">اخبار</title>
+		<title lang="fa">اخبار</title>
 		<desc lang="en">Daily News</title>
-		<desc lang="en">اخبار روزانه</title>
+		<desc lang="fa">اخبار روزانه</title>
 		<date>Program release date 1</date>
 		<category lang="en">General</category>
 		<category lang="fa">عمومی</category>
 	</programme>
 	<programme start="20200920140000 +0300" stop="20300920141500 +0300" channel="neshansarzamin">
 		<title lang="en">News</title>
-		<title lang="en">اخبار</title>
+		<title lang="fa">اخبار</title>
 		<desc lang="en">Daily News</title>
-		<desc lang="en">اخبار روزانه</title>
+		<desc lang="fa">اخبار روزانه</title>
 		<date>Program release date 1</date>
 		<category lang="en">General</category>
 		<category lang="fa">عمومی</category>
 	</programme>
 	<programme start="20200920140000 +0300" stop="20300920141500 +0300" channel="neshanavang">
 		<title lang="en">News</title>
-		<title lang="en">اخبار</title>
+		<title lang="fa">اخبار</title>
 		<desc lang="en">Daily News</title>
-		<desc lang="en">اخبار روزانه</title>
+		<desc lang="fa">اخبار روزانه</title>
 		<date>Program release date 1</date>
 		<category lang="en">General</category>
 		<category lang="fa">عمومی</category>
 	</programme>
 	<programme start="20200920140000 +0300" stop="20300920141500 +0300" channel="neshanaramesh">
 		<title lang="en">News</title>
-		<title lang="en">اخبار</title>
+		<title lang="fa">اخبار</title>
 		<desc lang="en">Daily News</title>
-		<desc lang="en">اخبار روزانه</title>
+		<desc lang="fa">اخبار روزانه</title>
 		<date>Program release date 1</date>
 		<category lang="en">General</category>
 		<category lang="fa">عمومی</category>
 	</programme>
 	<programme start="20200920140000 +0300" stop="20300920141500 +0300" channel="neshansarkhoshanmast">
 		<title lang="en">News</title>
-		<title lang="en">اخبار</title>
+		<title lang="fa">اخبار</title>
 		<desc lang="en">Daily News</title>
-		<desc lang="en">اخبار روزانه</title>
+		<desc lang="fa">اخبار روزانه</title>
 		<date>Program release date 1</date>
 		<category lang="en">General</category>
 		<category lang="fa">عمومی</category>
 	</programme>
 	<programme start="20200920140000 +0300" stop="20300920141500 +0300" channel="neshanrangarang">
 		<title lang="en">News</title>
-		<title lang="en">اخبار</title>
+		<title lang="fa">اخبار</title>
 		<desc lang="en">Daily News</title>
-		<desc lang="en">اخبار روزانه</title>
+		<desc lang="fa">اخبار روزانه</title>
 		<date>Program release date 1</date>
 		<category lang="en">General</category>
 		<category lang="fa">عمومی</category>
 	</programme>
 	<programme start="20200920140000 +0300" stop="20300920141500 +0300" channel="neshanowj">
 		<title lang="en">News</title>
-		<title lang="en">اخبار</title>
+		<title lang="fa">اخبار</title>
 		<desc lang="en">Daily News</title>
-		<desc lang="en">اخبار روزانه</title>
+		<desc lang="fa">اخبار روزانه</title>
 		<date>Program release date 1</date>
 		<category lang="en">General</category>
 		<category lang="fa">عمومی</category>
