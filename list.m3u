@@ -322,7 +322,6 @@ https://ncdn.telewebion.com/velayat/live/playlist.m3u8
 https://ncdn.telewebion.com/taban/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ZagrosTV.ir@SD",Zagros
 https://ncdn.telewebion.com/zagros/live/playlist.m3u8
-#EXTM3U
 #EXTINF:-1 tvg-id="4Afghanistan.fr@SD",4 Afghanistan
 https://4afghls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="4Music.fr@SD",4 Music
