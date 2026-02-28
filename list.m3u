@@ -1,12 +1,14 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/xmha97/LiveStream/refs/heads/master/epg.xml.gz"
-#EXTINF:-1 tvg-chno="101" group-title="IRIB" tvg-logo="https://raw.githubusercontent.com/xmha97/LiveStream/refs/heads/master/png/b24bc672.png" radio=false provider-countries="IR" provider-languages="fa-IR" provider="Telewebion" provider-type="aerial" x-tvg-url="https://raw.githubusercontent.com/xmha97/LiveStream/refs/heads/master/epg.xml.gz" tvg-id="irib.tv1" tvg-name="IRIB TV1",IRIB TV1
+#EXTINF:-1 tvg-chno="101" group-title="IRIB Domestic" tvg-logo="https://raw.githubusercontent.com/xmha97/LiveStream/refs/heads/master/png/b24bc672.png" radio=false provider-countries="IR" provider-languages="fa-IR" provider="Telewebion" provider-type="aerial" x-tvg-url="https://raw.githubusercontent.com/xmha97/LiveStream/refs/heads/master/epg.xml.gz" tvg-id="irib.tv1" tvg-name="IRIB TV1",IRIB TV1
 https://live-azd1119.telewebion.com/ek/tv1/live/1080p/index.m3u8
-#EXTINF:-1 tvg-chno="102" group-title="IRIB" tvg-logo="https://raw.githubusercontent.com/xmha97/LiveStream/refs/heads/master/png/22535be8.png" radio=false provider-countries="IR" provider-languages="fa-IR" provider="Telewebion" provider-type="aerial" x-tvg-url="https://raw.githubusercontent.com/xmha97/LiveStream/refs/heads/master/epg.xml.gz" tvg-id="irib.tv2" tvg-name="IRIB TV2",IRIB TV2
+#EXTINF:-1 tvg-chno="102" group-title="IRIB Domestic" tvg-logo="https://raw.githubusercontent.com/xmha97/LiveStream/refs/heads/master/png/22535be8.png" radio=false provider-countries="IR" provider-languages="fa-IR" provider="Telewebion" provider-type="aerial" x-tvg-url="https://raw.githubusercontent.com/xmha97/LiveStream/refs/heads/master/epg.xml.gz" tvg-id="irib.tv2" tvg-name="IRIB TV2",IRIB TV2
 https://live-azd1119.telewebion.com/ek/tv2/live/1080p/index.m3u8
-#EXTINF:-1 tvg-chno="103" group-title="IRIB" tvg-logo="https://raw.githubusercontent.com/xmha97/LiveStream/refs/heads/master/png/72412197.png" radio=false provider-countries="IR" provider-languages="fa-IR" provider="Telewebion" provider-type="aerial" x-tvg-url="https://raw.githubusercontent.com/xmha97/LiveStream/refs/heads/master/epg.xml.gz" tvg-id="irib.tv3" tvg-name="IRIB TV3",IRIB TV3
+#EXTINF:-1 tvg-chno="103" group-title="IRIB Domestic" tvg-logo="https://raw.githubusercontent.com/xmha97/LiveStream/refs/heads/master/png/72412197.png" radio=false provider-countries="IR" provider-languages="fa-IR" provider="Telewebion" provider-type="aerial" x-tvg-url="https://raw.githubusercontent.com/xmha97/LiveStream/refs/heads/master/epg.xml.gz" tvg-id="irib.tv3" tvg-name="IRIB TV3",IRIB TV3
 https://live-azd1119.telewebion.com/ek/tv3/live/1080p/index.m3u8
-#EXTINF:-1 tvg-chno="201" group-title="IRIB" tvg-logo="https://raw.githubusercontent.com/xmha97/LiveStream/refs/heads/master/png/65c4e9e6.png" radio=false provider-countries="IR" provider-languages="fa-IR" provider="Telewebion" provider-type="aerial" x-tvg-url="https://raw.githubusercontent.com/xmha97/LiveStream/refs/heads/master/epg.xml.gz" tvg-id="irib.alborz" tvg-name="IRIB Alborz",IRIB Alborz
-https://live-azd1119.telewebion.com/ek/alborz/live/576p/index.m3u8
+#EXTINF:-1 tvg-chno="201" group-title="IRIB Provincial" tvg-logo="https://raw.githubusercontent.com/xmha97/LiveStream/refs/heads/master/png/65c4e9e6.png" radio=false provider-countries="IR" provider-languages="fa-IR" provider="Telewebion" provider-type="aerial" x-tvg-url="https://raw.githubusercontent.com/xmha97/LiveStream/refs/heads/master/epg.xml.gz" tvg-id="irib.provincial.alborz.tv" tvg-name="IRIB Alborz (TV)",IRIB Alborz (TV)
+https://ncdn.telewebion.com/alborz/live/playlist.m3u8
+#EXTINF:-1 tvg-chno="201" group-title="IRIB Provincial" tvg-logo="https://raw.githubusercontent.com/xmha97/LiveStream/refs/heads/master/png/65c4e9e6.png" radio=true provider-countries="IR" provider-languages="fa-IR" provider="IranSeda" provider-type="aerial" x-tvg-url="https://raw.githubusercontent.com/xmha97/LiveStream/refs/heads/master/epg.xml.gz" tvg-id="irib.provincial.alborz.radio" tvg-name="IRIB Alborz (Radio)",IRIB Alborz (Radio)
+https://s1.cdn3.iranseda.ir/liveedgeprovincial/radio-alborz/playlist.m3u8
 #EXTINF:-1 tvg-chno="301" group-title="GEM" tvg-logo="https://raw.githubusercontent.com/xmha97/LiveStream/refs/heads/master/png/d5b504f2.png" radio=false provider-countries="TR" provider-languages="fa-IR" provider="Aparatchi" provider-type="satellite" x-tvg-url="https://raw.githubusercontent.com/xmha97/LiveStream/refs/heads/master/epg.xml.gz" tvg-id="gem.junior" tvg-name="GEM Junior",GEM Junior
 #EXTVLCOPT:http-referrer=https://www.aparatchi.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
@@ -98,8 +100,6 @@ https://hls.yourtime.live/hls/stream.m3u8
 https://ncdn.telewebion.com/abadan/live/playlist.m3u8
 #EXTINF:-1 tvg-id="AftabTV.ir@SD",Aftab
 https://ncdn.telewebion.com/aftab/live/playlist.m3u8
-#EXTINF:-1 tvg-id="AlborzTV.ir@SD",Alborz
-https://ncdn.telewebion.com/alborz/live/playlist.m3u8
 #EXTINF:-1 tvg-id="AmouzeshTV.ir@SD",Amouzesh
 https://ncdn.telewebion.com/amouzesh/live/playlist.m3u8
 #EXTINF:-1 tvg-id="AraTV.ir@SD",Ara
